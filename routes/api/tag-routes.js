@@ -63,7 +63,6 @@ router.put('/:id', (req, res) => {
   // update a tag's name by its `id` value
   Tag
     .update(req.body, {
-      individualHooks: true,
       where: {
         id: req.params.id
       }
