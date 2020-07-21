@@ -10,6 +10,7 @@ This project is the back end for an e-commerce website. It uses Express.js and S
 * [Prerequisites](#Prerequisites)
 * [Installation](#Installation)
 * [Usage](#Usage)
+* [Project Technical Criteria](#Tech)
 * [License](#License)
 * [Contributing](#Contributing)
 * [Tests](#Tests)
@@ -46,6 +47,10 @@ DB_PW='yourMySQLpassword'
 [Walkthrough Video](https://youtu.be/rE0WAeie1BQ)
 * Run the server in the terminal using `npm start`.
 * Test the routes using [Insomnia Core](https://insomnia.rest/) or other API testing software.
+
+<a name='tech'></a>
+## Project Technical Criteria
+[Technical Criteria Video](https://youtu.be/63-G1NJwsmk)
 
 <a name='license'></a>
 ## License
